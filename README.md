@@ -29,11 +29,11 @@ KPI's:
 
 
 I have also shared the screenshots---
-![Screenshot1](https://github.com/Deepesh0289/HR-Analytics-Dashboard/blob/main/ss1.png)
-![Screenshot2](https://github.com/Deepesh0289/HR-Analytics-Dashboard/blob/main/ss2.png)
-![Screenshot3](https://github.com/Deepesh0289/HR-Analytics-Dashboard/blob/main/ss4.png)
-![Screenshot4](https://github.com/Deepesh0289/HR-Analytics-Dashboard/blob/main/ss5.png)
-![Screenshot5](https://github.com/Deepesh0289/HR-Analytics-Dashboard/blob/main/ss9.png)
-![Screenshot6](https://github.com/Deepesh0289/HR-Analytics-Dashboard/blob/main/ss10.png)
+[Screenshot1](https://github.com/Deepesh0289/HR-Analytics-Dashboard/blob/main/ss1.png)
+[Screenshot2](https://github.com/Deepesh0289/HR-Analytics-Dashboard/blob/main/ss2.png)
+[Screenshot3](https://github.com/Deepesh0289/HR-Analytics-Dashboard/blob/main/ss4.png)
+[Screenshot4](https://github.com/Deepesh0289/HR-Analytics-Dashboard/blob/main/ss5.png)
+[Screenshot5](https://github.com/Deepesh0289/HR-Analytics-Dashboard/blob/main/ss9.png)
+[Screenshot6](https://github.com/Deepesh0289/HR-Analytics-Dashboard/blob/main/ss10.png)
 
 
