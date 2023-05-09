@@ -23,10 +23,10 @@ KPI's:
 > Attrition by Gender
 > Attrition by Education field 
 > Attrition by age
-> Attrition by salary
-> Attrition by job role
-> Attrition by year at company
-> Attrition by Job role by Job statisfaction
+> Attrition by Job statisfaction
+> Attrition by department wise attrition
+> Attrition by gender for different age group
+
 
 I have also shared the screenshots---
 
