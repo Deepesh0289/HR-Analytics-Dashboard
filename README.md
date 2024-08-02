@@ -19,24 +19,18 @@ Resources:
 Tool: Tableau(For data clening and visualization.
 
 KPI's:
-> Total number of emloyees, Attrition count and attrition rate.
-> Attrition by Gender
-> Attrition by Education field 
-> Attrition by age
-> Attrition by Job statisfaction
-> Attrition by department wise attrition
-> Attrition by gender for different age group
+1.Total number of emloyees, Attrition count and attrition rate.
+2.Attrition by Gender
+3.Attrition by Education field 
+4.Attrition by age
+5.Attrition by Job statisfaction
+6.Attrition by department wise attrition
+7.Attrition by gender for different age group
 
+##Screenshot
 ![Dashboard](https://github.com/Deepesh0289/HR-Analytics-Dashboard/blob/main/ss10.png)
 
 
 
-I have also shared the screenshots---
-[Screenshot1](https://github.com/Deepesh0289/HR-Analytics-Dashboard/blob/main/ss1.png)
-[Screenshot2](https://github.com/Deepesh0289/HR-Analytics-Dashboard/blob/main/ss2.png)
-[Screenshot3](https://github.com/Deepesh0289/HR-Analytics-Dashboard/blob/main/ss4.png)
-[Screenshot4](https://github.com/Deepesh0289/HR-Analytics-Dashboard/blob/main/ss5.png)
-[Screenshot5](https://github.com/Deepesh0289/HR-Analytics-Dashboard/blob/main/ss9.png)
-[Screenshot6](https://github.com/Deepesh0289/HR-Analytics-Dashboard/blob/main/ss10.png)
 
 
