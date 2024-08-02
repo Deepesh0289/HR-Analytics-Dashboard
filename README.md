@@ -27,7 +27,7 @@ KPI's:
 6.Attrition by department wise attrition
 7.Attrition by gender for different age group
 
-##Screenshot
+## Screenshot
 ![Dashboard](https://github.com/Deepesh0289/HR-Analytics-Dashboard/blob/main/ss10.png)
 
 
