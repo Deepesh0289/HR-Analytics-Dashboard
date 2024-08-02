@@ -27,7 +27,7 @@ KPI's:
 > Attrition by department wise attrition
 > Attrition by gender for different age group
 
-![Dashboard](https://github.com/Deepesh0289/SuperStore-Sales-Analysis/assets/76846273/247ca3b9-6dc6-4fd2-8661-f91be5c023ca)
+![Dashboard](https://github.com/Deepesh0289/HR-Analytics-Dashboard/blob/main/ss10.png)
 
 
 
